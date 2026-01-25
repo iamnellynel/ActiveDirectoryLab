@@ -1,13 +1,13 @@
-<h1>Azure IAM Lab</h1>
+<h1>MS Azure IAM Lab</h1>
 
 <h2>Description</h2>
-In this lab, I walk the user through role-based access control via Microsoft Azure. Configuring and running this lab will help develop an understanding of identity and access management. Tasks included creating user accounts, creating built-in roles, provisioning users with role assignments, designing a custom role, and assigning that custom role to a user to enforce least-privilege access. Let me know if you have any questions!
+In this lab, I walk the user through role-based access control via MS Azure. Configuring and running this lab will help develop an understanding of identity and access management. Tasks included creating user accounts, creating built-in roles, provisioning users with role assignments, designing a custom role, and assigning that custom role to a user to enforce least-privilege access. Let me know if you have any questions!
 <br>
 
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>Azure</b> 
+- <b>Microsoft Azure</b> 
 
 <h2>Environments Used </h2>
 
