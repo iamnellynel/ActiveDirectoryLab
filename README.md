@@ -1,50 +1,25 @@
-<h1>Active Directory Home Lab</h1>
-
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
+<h1>Azure IAM Lab</h1>
 
 <h2>Description</h2>
-In this lab, we walk the user through Active Directory home lab environment. Configuring and running this lab will help develop an understanding of Active Directory use cases. It's highly recommended to run through it a few times, ask questions if anything is unclear, and eventually try to build on your own to get hands on experience. Let me know if you have any questions!
+In this lab, I walk the user through role-based access control via Microsoft Azure. Configuring and running this lab will help develop an understanding of identity and access management. Tasks included creating user accounts, creating built-in roles, provisioning users with role assignments, designing a custom role, and assigning that custom role to a user to enforce least-privilege access. Let me know if you have any questions!
 <br />
 
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>Active Directory</b> 
+- <b>Azure</b> 
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
+- <b>Windows 10</b>
 
 <h2>Program walk-through:</h2>
 
-<p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+-Created User Account: slides # 2-6
+-Created Role: slides # 7-9
+-Provisioned User with Role: slides # 10-12
+-Created Custom Role slides # 13-16
+-Provisioned User with Custom Role: slides # 17-21
 
 <!--
  ```diff
